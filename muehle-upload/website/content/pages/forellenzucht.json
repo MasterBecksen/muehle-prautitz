@@ -1,0 +1,54 @@
+{
+    "slug": "forellenzucht",
+    "title": "Forellenzucht",
+    "nav_label": "Forellenzucht",
+    "nav_order": 3,
+    "in_nav": true,
+    "meta_title": "Forellenzucht – frischer Fisch & Räucherfisch",
+    "meta_description": "Regenbogenforellen, Lachsforellen, Bachforellen und Saiblinge aus naturbelassenen Erdteichen. Räucherfisch und Grillforelle auf Bestellung.",
+    "hero": {
+        "image": "/uploads/images/forelle-luftbild.jpg",
+        "image_alt": "Luftbild der Forellenzucht mit Aufzuchtteichen",
+        "eyebrow": "Aus Quellwasser-Teichen",
+        "heading": "Forellenzucht",
+        "text": "Nachhaltige Aufzucht vom Jung- bis zum Speisefisch."
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "heading": "Fisch aus naturbelassenen Erdteichen",
+            "body": "Unser Forellenzuchtbetrieb befasst sich mit der nachhaltigen Aufzucht von Regenbogenforellen in naturbelassenen Erdteichen vom Jung- bis zum Speisefisch.\n\nWeiterhin bieten wir Lachsforellen, Bachforellen und Saiblinge an. Saisonal gibt es auch Karpfen und andere heimische Fische.",
+            "image": "/uploads/images/forelle-quellgebiet-1.jpg",
+            "image_alt": "Das Quellgebiet der Teiche",
+            "image_position": "right"
+        },
+        {
+            "type": "cards",
+            "style": "products",
+            "heading": "Auf Bestellung",
+            "intro": "Räucherfisch und Grillforelle bitte **2 Tage vorher** bestellen.",
+            "items": [
+                { "title": "Räucherfisch", "text": "Frisch aus dem eigenen Räucherofen.", "image": "", "link": "", "link_label": "" },
+                { "title": "Räucherfischplatten", "text": "Für Feiern und Gruppen – sprechen Sie uns an.", "image": "", "link": "", "link_label": "" },
+                { "title": "Grillforelle", "text": "Küchenfertig in Alufolie, bereit für den Grill.", "image": "", "link": "", "link_label": "" }
+            ]
+        },
+        {
+            "type": "hours",
+            "heading": "Öffnungszeiten Fischverkauf",
+            "groups": ["fischverkauf"]
+        },
+        {
+            "type": "gallery",
+            "heading": "Rund um die Teiche",
+            "images": [
+                { "src": "/uploads/images/forelle-luftbild.jpg", "alt": "Luftbild der Forellenzucht", "caption": "Luftbild Forellenzucht" },
+                { "src": "/uploads/images/forelle-aufzuchtteiche-oben.jpg", "alt": "Aufzuchtteiche von oben", "caption": "Aufzuchtteiche von oben" },
+                { "src": "/uploads/images/forelle-aufzuchtteiche.jpg", "alt": "Aufzuchtteiche", "caption": "Aufzuchtteiche" },
+                { "src": "/uploads/images/forelle-quellgebiet-1.jpg", "alt": "Das Quellgebiet", "caption": "Das Quellgebiet" },
+                { "src": "/uploads/images/forelle-quellgebiet-2.jpg", "alt": "Das Quellgebiet im Grünen", "caption": "Das Quellgebiet" },
+                { "src": "/uploads/images/forelle-setzlingsteich.jpg", "alt": "Der Setzlingsteich", "caption": "Setzlingsteich" }
+            ]
+        }
+    ]
+}

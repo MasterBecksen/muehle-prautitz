@@ -1,0 +1,46 @@
+[
+    {
+        "id": "abfischen-2026",
+        "active": true,
+        "pinned": true,
+        "type": "event",
+        "title": "Nächstes Abfischen",
+        "text": "Am **07.11.2026 um 09:00 Uhr** wird abgefischt. Frischer Fisch direkt vom Teich!",
+        "from": "",
+        "until": "2026-11-07",
+        "pages": ["start", "angelteich", "forellenzucht"]
+    },
+    {
+        "id": "saisonende-2026",
+        "active": true,
+        "pinned": false,
+        "type": "info",
+        "title": "Saisonende am Angelteich",
+        "text": "Die Angelsaison 2026 endet am 01.11.2026. Der Fischverkauf bleibt weiterhin geöffnet.",
+        "from": "2026-09-15",
+        "until": "2026-11-01",
+        "pages": ["start", "angelteich"]
+    },
+    {
+        "id": "sommerpause-2026",
+        "active": true,
+        "pinned": false,
+        "type": "warning",
+        "title": "Sommerpause",
+        "text": "Vom 20.07.2026 bis 18.08.2026 ist der Angelteich geschlossen.",
+        "from": "2026-06-01",
+        "until": "2026-08-18",
+        "pages": ["start", "angelteich"]
+    },
+    {
+        "id": "reservierung-20-06-2026",
+        "active": true,
+        "pinned": false,
+        "type": "warning",
+        "title": "Teichreservierung",
+        "text": "Am Samstag, den 20.06.2026 ist der Angelteich reserviert!",
+        "from": "",
+        "until": "2026-06-20",
+        "pages": ["start", "angelteich"]
+    }
+]

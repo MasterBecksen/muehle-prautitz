@@ -1,0 +1,39 @@
+{
+    "slug": "25jahre",
+    "title": "25 Jahre Angelteich",
+    "nav_label": "Chronik",
+    "nav_order": 5,
+    "in_nav": true,
+    "meta_title": "1993 – 2018: 25 Jahre Angelteich an der Mühle Prautitz",
+    "meta_description": "Wie der Angelteich an der Mühle Prautitz 1992/93 entstand – mit historischen Fotos vom Teichbau.",
+    "hero": {
+        "image": "/uploads/images/angelteich-luftbild.jpg",
+        "image_alt": "Der Angelteich an der Mühle Prautitz",
+        "eyebrow": "1993 – 2018",
+        "heading": "25 Jahre Angelteich",
+        "text": "Wie aus einer Wiese an der Mühle ein Angelteich wurde."
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "heading": "Die Idee",
+            "body": "Durch den starken Rückgang des Forellenabsatzes nach der Wende kam die Idee, die Forellen über einen Angelteich zu vermarkten. Die Arbeiten begannen im September 1992 und dauerten bis zur Fertigstellung im September 1993.",
+            "image": "",
+            "image_alt": "",
+            "image_position": "right"
+        },
+        {
+            "type": "gallery",
+            "style": "story",
+            "heading": "Der Teichbau in Bildern",
+            "images": [
+                { "src": "/uploads/images/chronik-1-wiese-1992.jpg", "alt": "Die Wiese an der Mühle im August 1992", "caption": "Die Wiese an der Mühle im August 1992 vor dem Teichbau." },
+                { "src": "/uploads/images/chronik-2-raupe.jpg", "alt": "Russische Planierraupe bei den Erdarbeiten", "caption": "Eine russische Raupe, die zur Verschrottung vorgesehen war, erledigte die 3 Tage dauernden Erdarbeiten." },
+                { "src": "/uploads/images/chronik-3-t100.jpg", "alt": "Die Raupe T 100 bei der Arbeit", "caption": "Es war der letzte Auftrag für die T 100." },
+                { "src": "/uploads/images/chronik-4-unaufhaltsam.jpg", "alt": "Die Raupe schiebt Erde", "caption": "Das Ding war unaufhaltsam." },
+                { "src": "/uploads/images/chronik-5-ansicht.jpg", "alt": "Blick auf Prautitz während des Teichbaus", "caption": "Die Ansicht von Prautitz ändert sich." },
+                { "src": "/uploads/images/chronik-6-fertig.jpg", "alt": "Die fertige Teichgrube mit abgestellter Raupe", "caption": "Nach dem 3. Tag war das Werk vollbracht. Die Raupe stand zur Abholung bereit." }
+            ]
+        }
+    ]
+}

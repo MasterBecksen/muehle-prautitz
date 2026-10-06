@@ -1,0 +1,35 @@
+{
+    "slug": "kontakt",
+    "title": "Wir über uns",
+    "nav_label": "Über uns & Kontakt",
+    "nav_order": 6,
+    "in_nav": true,
+    "meta_title": "Wir über uns & Kontakt",
+    "meta_description": "Familie Horbank – Mühle Prautitz, Lindenstraße 2, 01920 Crostwitz OT Prautitz. Telefon 035796 / 96356.",
+    "hero": {
+        "image": "/uploads/images/kontakt-header.jpg",
+        "image_alt": "Blick auf die Mühle Prautitz",
+        "eyebrow": "Familie Horbank",
+        "heading": "Wir über uns",
+        "text": "Seit fünf Generationen an der Mühle in Prautitz."
+    },
+    "blocks": [
+        {
+            "type": "cards",
+            "style": "people",
+            "heading": "Die Familie",
+            "intro": "Die Mühle Prautitz befindet sich in der 5. Generation im Besitz der Familie Horbank.",
+            "items": [
+                { "title": "Senior-Chef", "text": "", "image": "/uploads/images/senior-chef.jpg", "link": "", "link_label": "" },
+                { "title": "Chefin mit Enkelin", "text": "", "image": "/uploads/images/chefin-enkelin.jpg", "link": "", "link_label": "" },
+                { "title": "Junior-Chef", "text": "", "image": "/uploads/images/junior-chef.jpg", "link": "", "link_label": "" }
+            ]
+        },
+        {
+            "type": "contact",
+            "heading": "Kontakt",
+            "text": "Schreiben Sie uns oder rufen Sie an – wir melden uns gern.",
+            "show_form": true
+        }
+    ]
+}

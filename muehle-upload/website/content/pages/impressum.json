@@ -1,0 +1,22 @@
+{
+    "slug": "impressum",
+    "title": "Impressum",
+    "nav_label": "Impressum",
+    "nav_order": 90,
+    "in_nav": false,
+    "in_footer": true,
+    "noindex": true,
+    "meta_title": "Impressum",
+    "meta_description": "Impressum der Mühle Prautitz.",
+    "hero": { "image": "", "image_alt": "", "eyebrow": "", "heading": "Impressum", "text": "" },
+    "blocks": [
+        {
+            "type": "text",
+            "heading": "Angaben gemäß § 5 DDG",
+            "body": "Mühle Prautitz\nInhaber: Thomas Horbank\nLindenstraße 2\n01920 Crostwitz OT Prautitz\n\n## Kontakt\n\nTelefon: [035796 / 96356](tel:+493579696356)\nE-Mail: [muehle@horbank.de](mailto:muehle@horbank.de)\n\n## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV\n\nThomas Horbank, Anschrift wie oben\n\n## Verbraucherstreitbeilegung\n\nWir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+            "image": "",
+            "image_alt": "",
+            "image_position": "right"
+        }
+    ]
+}

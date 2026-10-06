@@ -1,0 +1,50 @@
+{
+    "slug": "datenschutz",
+    "title": "Datenschutzerklärung",
+    "nav_label": "Datenschutz",
+    "nav_order": 91,
+    "in_nav": false,
+    "in_footer": true,
+    "noindex": true,
+    "meta_title": "Datenschutzerklärung",
+    "meta_description": "Informationen zum Datenschutz auf der Webseite der Mühle Prautitz.",
+    "hero": { "image": "", "image_alt": "", "eyebrow": "", "heading": "Datenschutzerklärung", "text": "" },
+    "blocks": [
+        {
+            "type": "text",
+            "heading": "1. Verantwortlicher",
+            "body": "Thomas Horbank, Mühle Prautitz, Lindenstraße 2, 01920 Crostwitz OT Prautitz\nTelefon: 035796 / 96356 · E-Mail: [muehle@horbank.de](mailto:muehle@horbank.de)",
+            "image": "", "image_alt": "", "image_position": "right"
+        },
+        {
+            "type": "text",
+            "heading": "2. Hosting und Server-Logfiles",
+            "body": "Diese Webseite wird bei der STRATO AG, Otto-Ostrowski-Straße 7, 10249 Berlin, gehostet. Beim Aufruf der Seiten verarbeitet der Webserver technisch notwendige Daten (IP-Adresse, Datum und Uhrzeit, aufgerufene Seite, Browsertyp) in Server-Logfiles. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (sicherer und stabiler Betrieb). Mit dem Hoster besteht ein Vertrag zur Auftragsverarbeitung.",
+            "image": "", "image_alt": "", "image_position": "right"
+        },
+        {
+            "type": "text",
+            "heading": "3. Keine Cookies, kein Tracking",
+            "body": "Wir setzen auf dieser Webseite keine Cookies für Besucher und verwenden keine Analyse- oder Werbedienste. Schriftarten werden lokal von unserem Server geladen, es werden dabei keine Daten an Dritte übertragen.",
+            "image": "", "image_alt": "", "image_position": "right"
+        },
+        {
+            "type": "text",
+            "heading": "4. Kontaktformular und E-Mail",
+            "body": "Wenn Sie uns über das Kontaktformular oder per E-Mail schreiben, verarbeiten wir Ihre Angaben (Name, E-Mail-Adresse, ggf. Telefonnummer, Nachricht) ausschließlich zur Bearbeitung Ihrer Anfrage. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b bzw. f DSGVO. Die Daten werden per E-Mail an uns übermittelt und gelöscht, sobald sie nicht mehr erforderlich sind und keine gesetzlichen Aufbewahrungspflichten bestehen. Zum Schutz vor Missbrauch wird ein verschlüsselter (gehashter) Wert Ihrer IP-Adresse für höchstens 24 Stunden gespeichert.",
+            "image": "", "image_alt": "", "image_position": "right"
+        },
+        {
+            "type": "text",
+            "heading": "5. Eingebettete Videos (Vimeo)",
+            "body": "Videos des Anbieters Vimeo (Vimeo.com Inc., New York, USA) werden erst geladen, wenn Sie auf „Video laden“ klicken. Erst dann werden Daten wie Ihre IP-Adresse an Vimeo übertragen. Rechtsgrundlage ist Ihre Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO, die Sie durch Neuladen der Seite jederzeit widerrufen können. Vimeo ist unter dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: [vimeo.com/privacy](https://vimeo.com/privacy)",
+            "image": "", "image_alt": "", "image_position": "right"
+        },
+        {
+            "type": "text",
+            "heading": "6. Ihre Rechte",
+            "body": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit sowie Widerspruch gegen die Verarbeitung (Art. 15–21 DSGVO). Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren, in Sachsen bei der Sächsischen Datenschutz- und Transparenzbeauftragten.\n\n*Stand: Oktober 2026*",
+            "image": "", "image_alt": "", "image_position": "right"
+        }
+    ]
+}

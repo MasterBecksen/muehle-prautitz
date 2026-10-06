@@ -1,0 +1,48 @@
+{
+    "slug": "muehle",
+    "title": "Mühle",
+    "nav_label": "Mühle",
+    "nav_order": 2,
+    "in_nav": true,
+    "meta_title": "Die Mühle – Roggen- und Weizenmehl aus der Region",
+    "meta_description": "Die Mühle Prautitz: Roggen- und Weizenmehl aus Getreide des Klosters St. Marienstern und der Region. Betriebsbesichtigungen nach Vereinbarung.",
+    "hero": {
+        "image": "/uploads/images/muehle-luftbild.jpg",
+        "image_alt": "Luftbild der Mühle Prautitz",
+        "eyebrow": "Müllerhandwerk seit 1858",
+        "heading": "Die Mühle",
+        "text": "Roggen- und Weizenmehl aus Getreide der näheren Umgebung."
+    },
+    "blocks": [
+        {
+            "type": "notice",
+            "style": "warning",
+            "text": "Die Räder der Mühle stehen seit dem 01.01.2025 still."
+        },
+        {
+            "type": "text",
+            "heading": "Unser Mühlenbetrieb",
+            "body": "In unserem Mühlenbetrieb wird vorwiegend Roggen- und Weizenmehl hergestellt. Ein weiteres spezielles Produkt, welches bei der Schamotteherstellung Verwendung findet, wird aus Weizen hergestellt.\n\nDas Getreide stammt zum größten Teil vom Kloster Sankt Marienstern und anderen Landwirten aus der näheren Umgebung.\n\n**Betriebsbesichtigungen sind nach vorheriger Vereinbarung möglich.**",
+            "image": "/uploads/images/muehle-walzenboden.jpg",
+            "image_alt": "Der Walzenboden der Mühle",
+            "image_position": "right"
+        },
+        {
+            "type": "hours",
+            "heading": "Öffnungszeiten Mühle",
+            "groups": ["muehle"]
+        },
+        {
+            "type": "gallery",
+            "heading": "Einblicke",
+            "images": [
+                { "src": "/uploads/images/muehle-luftbild.jpg", "alt": "Luftbild der Mühle", "caption": "Luftbild Mühle" },
+                { "src": "/uploads/images/muehle-gebaeude-1.jpg", "alt": "Ansicht des Mühlengebäudes", "caption": "Gebäudeansicht" },
+                { "src": "/uploads/images/muehle-gebaeude-2.jpg", "alt": "Weitere Ansicht des Mühlengebäudes", "caption": "Gebäudeansicht" },
+                { "src": "/uploads/images/muehle-walzenboden.jpg", "alt": "Walzenboden mit Mühlentechnik", "caption": "Walzenboden" },
+                { "src": "/uploads/images/muehle-walzenstuehle-1.jpg", "alt": "Historische Walzenstühle", "caption": "Walzenstühle" },
+                { "src": "/uploads/images/muehle-walzenstuehle-2.jpg", "alt": "Walzenstühle im Detail", "caption": "Walzenstühle" }
+            ]
+        }
+    ]
+}

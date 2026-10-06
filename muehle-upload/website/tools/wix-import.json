@@ -1,0 +1,134 @@
+{
+  "images": {
+    "start-luftbild.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_041e40e356cc4072ae731b36cd6ef9b6~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Luftbild der Mühle Prautitz mit Teichen"
+    },
+    "muehle-luftbild.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_1ccb97d3c3954a3eb1ffcddaf8ba2be1~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Luftbild der Mühle"
+    },
+    "muehle-gebaeude-1.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_890f640779c54e9caa43983b76872ef0~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Ansicht des Mühlengebäudes"
+    },
+    "muehle-gebaeude-2.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_b6e53b9721f84ed79f1fdcef6d854bf8~mv2_d_5110_3407_s_4_2.jpg",
+      "alt": "Weitere Ansicht des Mühlengebäudes"
+    },
+    "muehle-walzenboden.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_177f352a71fc4cdd9166960a44578349~mv2_d_5472_3648_s_4_2.jpg",
+      "alt": "Walzenboden der Mühle"
+    },
+    "muehle-walzenstuehle-1.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_3df4b6f7e50d43c89ecbc8971551761e~mv2_d_5472_3648_s_4_2.jpg",
+      "alt": "Historische Walzenstühle"
+    },
+    "muehle-walzenstuehle-2.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_e35ac75c43e541a0b142c076f5b13bb9~mv2_d_5472_3648_s_4_2.jpg",
+      "alt": "Walzenstühle im Detail"
+    },
+    "forelle-luftbild.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_08fa77c516fa4072bc2cc60abbe53e08~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Luftbild der Forellenzucht"
+    },
+    "forelle-aufzuchtteiche-oben.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_bb193bab27404b399138f602d1d4282a~mv2_d_3978_2234_s_2.jpg",
+      "alt": "Aufzuchtteiche von oben"
+    },
+    "forelle-aufzuchtteiche.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_6a519e9d7e0645af8097c5942392d530~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Aufzuchtteiche"
+    },
+    "forelle-quellgebiet-1.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_21008157ea6747c7b6807820e627883c~mv2_d_3998_2516_s_4_2.jpg",
+      "alt": "Das Quellgebiet"
+    },
+    "forelle-quellgebiet-2.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_d18395f41caf44fa8b2e23fc2a59e63a~mv2_d_3669_2531_s_4_2.jpg",
+      "alt": "Das Quellgebiet im Grünen"
+    },
+    "forelle-setzlingsteich.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_194bba4d598c44cb87aba11904c7af2d~mv2_d_5472_3648_s_4_2.jpg",
+      "alt": "Der Setzlingsteich"
+    },
+    "angelteich-luftbild.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_55ad67d620834364bb4cc8ce99d7c2f2~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Luftbild des Angelteichs"
+    },
+    "angelteich-uebersicht.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_e76fd739c59f4cffaa47e87a3f30c60f~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Luftbild des Angelteichs"
+    },
+    "angelteich-von-oben.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_1ca4e82c28db495fb105eacdecdf98c5~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Übersicht über den Angelteich"
+    },
+    "angelteich-oben-2.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_8a94a503b6f94a6fb7130a5857b5b585~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Der Angelteich von oben"
+    },
+    "angelteich-blaufichten.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_d94991bf04c743619b9473a62e3f39f1~mv2_d_3979_2235_s_2.jpg",
+      "alt": "Angelteich mit Blaufichten"
+    },
+    "angelteich-ufer.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_103f0864423443aaaef7fcb9c6c37920~mv2_d_5472_3648_s_4_2.jpg",
+      "alt": "Uferbereich des Angelteichs"
+    },
+    "angelteich-fischerhaus.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_9d904e44e39c44e38bb63fe9e760e143~mv2_d_5434_3623_s_4_2.jpg",
+      "alt": "Angelteich mit kleinem Fischerhaus"
+    },
+    "chronik-1-wiese-1992.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_d534d0177ca54a31a9be7f298695b047~mv2.jpg",
+      "alt": "Die Wiese an der Mühle im August 1992"
+    },
+    "chronik-2-raupe.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_89747c5ba41b44c5a2976a40521f07fd~mv2.jpg",
+      "alt": "Russische Planierraupe bei den Erdarbeiten"
+    },
+    "chronik-3-t100.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_035678c2184f4be89f420ce851db6818~mv2.jpg",
+      "alt": "Die Raupe T 100 bei der Arbeit"
+    },
+    "chronik-4-unaufhaltsam.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_ddaeafaeb6f64186a58f7b489d284660~mv2.jpg",
+      "alt": "Die Raupe schiebt Erde"
+    },
+    "chronik-5-ansicht.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_49e630732f8c4be786433535f710981a~mv2.jpg",
+      "alt": "Blick auf Prautitz während des Teichbaus"
+    },
+    "chronik-6-fertig.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_7234e11d4bde42938d93b2e7f5d5110f~mv2.jpg",
+      "alt": "Die fertige Teichgrube"
+    },
+    "kontakt-header.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_609fa45246f84be4a1ede1b047c006ef~mv2_d_3992_2242_s_2.jpg",
+      "alt": "Blick auf die Mühle Prautitz"
+    },
+    "senior-chef.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_1550c4e1c0a74df2a1a893f75f74017e~mv2_d_5472_3648_s_4_2.jpg",
+      "alt": "Der Senior-Chef"
+    },
+    "chefin-enkelin.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_5fdc320b93464621b66ce078d3477781~mv2_d_3595_2537_s_4_2.jpg",
+      "alt": "Die Chefin mit Enkelin"
+    },
+    "junior-chef.jpg": {
+      "url": "https://static.wixstatic.com/media/290cdb_c153e48d2f274dc68c495c8cbf51c9a7~mv2_d_4000_3000_s_4_2.jpg",
+      "alt": "Der Junior-Chef"
+    }
+  },
+  "docs": {
+    "teichordnung.pdf": {
+      "url": "https://www.angelteich-muehle-prautitz.com/_files/ugd/290cdb_f875c885d2f5470083aae1081da8756f.pdf",
+      "title": "Teichordnung"
+    },
+    "preisliste.pdf": {
+      "url": "https://www.angelteich-muehle-prautitz.com/_files/ugd/290cdb_c9cd3ad2d30449279525b8387ce18e94.pdf",
+      "title": "Preisliste"
+    }
+  }
+}

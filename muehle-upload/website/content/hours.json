@@ -1,0 +1,38 @@
+[
+    {
+        "id": "angelteich",
+        "title": "Angelteich",
+        "rows": [
+            { "days": "Mittwoch bis Sonntag", "time": "08:00 – 18:00 Uhr" },
+            { "days": "Montag und Dienstag", "time": "geschlossen (außer Feiertage)" }
+        ],
+        "notes": [
+            "Angelsaison 2026: 04.03.2026 – 01.11.2026",
+            "Ostersonntag und Ostermontag geschlossen",
+            "13. und 14.06.2026 geschlossen",
+            "Sommerpause: 20.07.2026 – 18.08.2026"
+        ]
+    },
+    {
+        "id": "fischverkauf",
+        "title": "Fischverkauf",
+        "rows": [
+            { "days": "Mittwoch bis Samstag", "time": "08:00 – 18:00 Uhr" },
+            { "days": "Montag und Dienstag", "time": "geschlossen (außer Feiertage)" }
+        ],
+        "notes": [
+            "Räucherfisch und Grillforelle bitte 2 Tage vorher bestellen."
+        ]
+    },
+    {
+        "id": "muehle",
+        "title": "Mühle",
+        "rows": [
+            { "days": "Mittwoch bis Samstag", "time": "08:00 – 18:00 Uhr" },
+            { "days": "Montag und Dienstag", "time": "geschlossen" }
+        ],
+        "notes": [
+            "Die Räder der Mühle stehen seit dem 01.01.2025 still."
+        ]
+    }
+]

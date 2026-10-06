@@ -1,0 +1,74 @@
+{
+    "slug": "start",
+    "title": "Startseite",
+    "nav_label": "Start",
+    "nav_order": 1,
+    "in_nav": true,
+    "meta_title": "Mühle Prautitz – Forellenzucht & Angelteich in der Oberlausitz",
+    "meta_description": "Familienbetrieb seit 1858: Forellenzucht in Quellwasser-Teichen, Angelteich mit Fischerstübl und Fischverkauf in Prautitz bei Crostwitz.",
+    "hero": {
+        "image": "/uploads/images/start-luftbild.jpg",
+        "image_alt": "Luftbild der Mühle Prautitz mit Teichen und Wiesen",
+        "eyebrow": "Seit 1858 in Familienhand",
+        "heading": "Die Mühle Prautitz",
+        "text": "Frische Forellen aus Quellwasser, entspanntes Angeln und ein Stück Oberlausitzer Mühlengeschichte.",
+        "buttons": [
+            { "label": "Zum Angelteich", "link": "/angelteich/" },
+            { "label": "Öffnungszeiten", "link": "#oeffnungszeiten" }
+        ]
+    },
+    "blocks": [
+        {
+            "type": "cards",
+            "style": "features",
+            "heading": "Was Sie bei uns erwartet",
+            "intro": "",
+            "items": [
+                { "title": "Angelteich", "text": "Quellwasser-Teich mit Forellen, Saiblingen, Karpfen und Schleien – und das Fischerstübl für Gruppen.", "image": "/uploads/images/angelteich-blaufichten.jpg", "link": "/angelteich/", "link_label": "Zum Angelteich" },
+                { "title": "Forellenzucht", "text": "Nachhaltige Aufzucht in naturbelassenen Erdteichen. Frischer Fisch, Räucherfisch und Grillforelle.", "image": "/uploads/images/forelle-aufzuchtteiche.jpg", "link": "/forellenzucht/", "link_label": "Zur Forellenzucht" },
+                { "title": "Mühle", "text": "Über 160 Jahre Müllerhandwerk – Roggen- und Weizenmehl aus Getreide der Region.", "image": "/uploads/images/muehle-walzenstuehle-1.jpg", "link": "/muehle/", "link_label": "Zur Mühle" }
+            ]
+        },
+        {
+            "type": "hours",
+            "anchor": "oeffnungszeiten",
+            "heading": "Öffnungszeiten",
+            "groups": ["angelteich", "fischverkauf"]
+        },
+        {
+            "type": "text",
+            "heading": "Geschichte der Mühle",
+            "body": "Über die Geschichte der Mühle Prautitz ist nicht viel bekannt. Da der Ort Prautitz seit 1225 immer ein eigenständiger landwirtschaftlicher Besitz war, ist selbst in der Chronik des Klosters Sankt Marienstern nichts über die Mühle zu finden.\n\nDas jetzige Mühlengebäude wurde 1858 von Müllermeister Michael Horbank erbaut. Die Mühle Prautitz befindet sich in der 5. Generation im Besitz der Familie Horbank.",
+            "image": "/uploads/images/muehle-gebaeude-1.jpg",
+            "image_alt": "Das Mühlengebäude in Prautitz",
+            "image_position": "right"
+        },
+        {
+            "type": "timeline",
+            "heading": "Meilensteine",
+            "items": [
+                { "year": "1225", "title": "Prautitz", "text": "Der Ort ist seit dieser Zeit ein eigenständiger landwirtschaftlicher Besitz." },
+                { "year": "1717", "title": "Ein Stein erzählt", "text": "Bei Umbauarbeiten 1968 wurde in 3,5 m Tiefe am ehemaligen Wasserradkasten ein großer Granitstein mit der Inschrift „1717“ gefunden." },
+                { "year": "1858", "title": "Neues Mühlengebäude", "text": "Müllermeister Michael Horbank errichtet das heutige Mühlengebäude." },
+                { "year": "1948", "title": "Moderne Technik", "text": "Die Mühle erhält neue Maschinen der Firma GROSSE." },
+                { "year": "1989", "title": "Neue Wege", "text": "Nach der Wende wird die bereits vorhandene Forellenzucht intensiviert." },
+                { "year": "1993", "title": "Der Angelteich", "text": "Der Angelteich an der Mühle wird eröffnet." },
+                { "year": "2025", "title": "Stillstand der Räder", "text": "Seit dem 01.01.2025 stehen die Räder der Mühle still." }
+            ]
+        },
+        {
+            "type": "video",
+            "heading": "Die Mühle im Film",
+            "provider": "vimeo",
+            "video_id": "261382118",
+            "poster": "/uploads/images/forelle-luftbild.jpg",
+            "caption": "Ein Rundflug über Mühle, Forellenzucht und Angelteich."
+        },
+        {
+            "type": "contact",
+            "heading": "Besuchen Sie uns",
+            "text": "Wir freuen uns auf Ihren Besuch. Für Gruppen, Räucherfisch-Bestellungen oder eine Betriebsbesichtigung rufen Sie uns einfach an.",
+            "show_form": false
+        }
+    ]
+}

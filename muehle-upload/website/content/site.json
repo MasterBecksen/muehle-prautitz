@@ -1,0 +1,20 @@
+{
+    "name": "Mühle Prautitz",
+    "claim": "Forellenzucht · Angelteich · Mühle",
+    "since": "1858",
+    "owner": "Thomas Horbank",
+    "street": "Lindenstraße 2",
+    "zip": "01920",
+    "city": "Crostwitz OT Prautitz",
+    "phone": "035796 / 96356",
+    "email": "muehle@horbank.de",
+    "base_url": "https://www.angelteich-muehle-prautitz.com",
+    "map_url": "https://www.openstreetmap.org/search?query=Lindenstra%C3%9Fe%202%2C%2001920%20Crostwitz",
+    "contact_form": {
+        "enabled": true,
+        "recipient": "muehle@horbank.de",
+        "success": "Vielen Dank! Ihre Nachricht ist bei uns angekommen. Wir melden uns so bald wie möglich."
+    },
+    "footer_text": "Familienbetrieb in fünfter Generation – frische Forellen aus Quellwasser, Angeln mitten in der Oberlausitz.",
+    "og_image": "/uploads/images/start-luftbild.jpg"
+}

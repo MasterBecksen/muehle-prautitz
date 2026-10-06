@@ -1,0 +1,52 @@
+{
+    "slug": "angelteich",
+    "title": "Angelteich",
+    "nav_label": "Angelteich",
+    "nav_order": 4,
+    "in_nav": true,
+    "meta_title": "Angelteich – Forellenangeln mit Quellwasser",
+    "meta_description": "Angelteich in Prautitz: Forellen, Saiblinge, Karpfen und Schleien, Fischerstübl mit 20 Plätzen. Öffnungszeiten, Teichordnung und Preisliste.",
+    "hero": {
+        "image": "/uploads/images/angelteich-luftbild.jpg",
+        "image_alt": "Luftbild des Angelteichs",
+        "eyebrow": "Petri Heil!",
+        "heading": "Angelteich",
+        "text": "Gespeist mit frischem Quellwasser, ständig mit Fisch besetzt."
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "heading": "Angeln an der Mühle",
+            "body": "Der mit frischem Quellwasser gespeiste Angelteich ist mit allen forellenartigen Fischen besetzt. Aber auch Karpfen, Schleie und andere heimische Fische gehören zum Besatz. Der gleichbleibende Besatz ist durch ständiges Nachsetzen garantiert.\n\nFür das Gruppenangeln steht auch das **Fischerstübl mit 20 Sitzplätzen** zur Verfügung. Auf Bestellung ist Verköstigung mit Räucherfisch oder Grillforelle möglich.\n\nPetri Heil!",
+            "image": "/uploads/images/angelteich-fischerhaus.jpg",
+            "image_alt": "Der Angelteich mit dem kleinen Fischerhaus",
+            "image_position": "right"
+        },
+        {
+            "type": "hours",
+            "heading": "Öffnungszeiten Angelteich",
+            "groups": ["angelteich"]
+        },
+        {
+            "type": "downloads",
+            "heading": "Vor dem Angeln",
+            "intro": "Bitte lesen Sie die Teichordnung vor dem Angeln. **Mit dem Betreten der Anlage wird die Teichordnung akzeptiert.**",
+            "items": [
+                { "label": "Teichordnung", "file": "/uploads/docs/teichordnung.pdf", "description": "Regeln für einen fairen Angeltag" },
+                { "label": "Preisliste", "file": "/uploads/docs/preisliste.pdf", "description": "Angeln, gefangene Fische und Angelausleihe" }
+            ]
+        },
+        {
+            "type": "gallery",
+            "heading": "Rund um den Teich",
+            "images": [
+                { "src": "/uploads/images/angelteich-uebersicht.jpg", "alt": "Luftbild des Angelteichs", "caption": "Luftbild Angelteich" },
+                { "src": "/uploads/images/angelteich-von-oben.jpg", "alt": "Übersicht über den Angelteich", "caption": "Teichübersicht" },
+                { "src": "/uploads/images/angelteich-oben-2.jpg", "alt": "Der Angelteich von oben", "caption": "Teich von oben" },
+                { "src": "/uploads/images/angelteich-blaufichten.jpg", "alt": "Angelteich mit Blaufichten am Ufer", "caption": "Teich mit Blaufichten" },
+                { "src": "/uploads/images/angelteich-ufer.jpg", "alt": "Uferbereich des Angelteichs", "caption": "Angelteich" },
+                { "src": "/uploads/images/angelteich-fischerhaus.jpg", "alt": "Angelteich mit kleinem Fischerhaus", "caption": "Teich mit kleinem Fischerhaus" }
+            ]
+        }
+    ]
+}

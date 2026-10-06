@@ -1,0 +1,28 @@
+# Lädt einmalig alle Bilder und PDFs von der alten Wix-Seite und speichert sie im Repository.
+# Start: Actions → "Bilder von Wix übernehmen" → Run workflow
+name: Bilder von Wix übernehmen
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: gd, fileinfo, mbstring, curl
+          coverage: none
+      - run: php tools/import-wix.php
+      - name: Ergebnis committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/uploads content/media.json
+          git diff --cached --quiet || git commit -m "Bilder und PDFs von der alten Webseite übernommen"
+          git push

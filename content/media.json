@@ -1,0 +1,254 @@
+{
+    "docs/preisliste.pdf": {
+        "type": "doc",
+        "title": "Preisliste",
+        "size": 213276,
+        "uploaded": "2026-10-06T10:03:04+02:00"
+    },
+    "docs/teichordnung.pdf": {
+        "type": "doc",
+        "title": "Teichordnung",
+        "size": 27211,
+        "uploaded": "2026-10-06T10:03:04+02:00"
+    },
+    "images/angelteich-blaufichten.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1348,
+        "alt": "Angelteich mit Blaufichten",
+        "size": 798676,
+        "uploaded": "2026-10-06T10:02:47+02:00"
+    },
+    "images/angelteich-fischerhaus.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Angelteich mit kleinem Fischerhaus",
+        "size": 778065,
+        "uploaded": "2026-10-06T10:02:53+02:00"
+    },
+    "images/angelteich-luftbild.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Luftbild des Angelteichs",
+        "size": 845866,
+        "uploaded": "2026-10-06T10:02:40+02:00"
+    },
+    "images/angelteich-oben-2.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Der Angelteich von oben",
+        "size": 845866,
+        "uploaded": "2026-10-06T10:02:46+02:00"
+    },
+    "images/angelteich-uebersicht.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Luftbild des Angelteichs",
+        "size": 920765,
+        "uploaded": "2026-10-06T10:02:42+02:00"
+    },
+    "images/angelteich-ufer.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Uferbereich des Angelteichs",
+        "size": 796156,
+        "uploaded": "2026-10-06T10:02:51+02:00"
+    },
+    "images/angelteich-von-oben.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Übersicht über den Angelteich",
+        "size": 1050224,
+        "uploaded": "2026-10-06T10:02:44+02:00"
+    },
+    "images/chefin-enkelin.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1693,
+        "alt": "Die Chefin mit Enkelin",
+        "size": 1037866,
+        "uploaded": "2026-10-06T10:03:02+02:00"
+    },
+    "images/chronik-1-wiese-1992.jpg": {
+        "type": "image",
+        "width": 1003,
+        "height": 701,
+        "alt": "Die Wiese an der Mühle im August 1992",
+        "size": 175511,
+        "uploaded": "2026-10-06T10:02:54+02:00"
+    },
+    "images/chronik-2-raupe.jpg": {
+        "type": "image",
+        "width": 1005,
+        "height": 699,
+        "alt": "Russische Planierraupe bei den Erdarbeiten",
+        "size": 211584,
+        "uploaded": "2026-10-06T10:02:54+02:00"
+    },
+    "images/chronik-3-t100.jpg": {
+        "type": "image",
+        "width": 1005,
+        "height": 696,
+        "alt": "Die Raupe T 100 bei der Arbeit",
+        "size": 155039,
+        "uploaded": "2026-10-06T10:02:55+02:00"
+    },
+    "images/chronik-4-unaufhaltsam.jpg": {
+        "type": "image",
+        "width": 1005,
+        "height": 699,
+        "alt": "Die Raupe schiebt Erde",
+        "size": 163087,
+        "uploaded": "2026-10-06T10:02:55+02:00"
+    },
+    "images/chronik-5-ansicht.jpg": {
+        "type": "image",
+        "width": 1005,
+        "height": 698,
+        "alt": "Blick auf Prautitz während des Teichbaus",
+        "size": 129126,
+        "uploaded": "2026-10-06T10:02:56+02:00"
+    },
+    "images/chronik-6-fertig.jpg": {
+        "type": "image",
+        "width": 1005,
+        "height": 698,
+        "alt": "Die fertige Teichgrube",
+        "size": 129275,
+        "uploaded": "2026-10-06T10:02:56+02:00"
+    },
+    "images/forelle-aufzuchtteiche-oben.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Aufzuchtteiche von oben",
+        "size": 1079435,
+        "uploaded": "2026-10-06T10:02:32+02:00"
+    },
+    "images/forelle-aufzuchtteiche.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Aufzuchtteiche",
+        "size": 1062469,
+        "uploaded": "2026-10-06T10:02:34+02:00"
+    },
+    "images/forelle-luftbild.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Luftbild der Forellenzucht",
+        "size": 922084,
+        "uploaded": "2026-10-06T10:02:30+02:00"
+    },
+    "images/forelle-quellgebiet-1.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1510,
+        "alt": "Das Quellgebiet",
+        "size": 1114276,
+        "uploaded": "2026-10-06T10:02:36+02:00"
+    },
+    "images/forelle-quellgebiet-2.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1655,
+        "alt": "Das Quellgebiet im Grünen",
+        "size": 1238793,
+        "uploaded": "2026-10-06T10:02:37+02:00"
+    },
+    "images/forelle-setzlingsteich.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Der Setzlingsteich",
+        "size": 805217,
+        "uploaded": "2026-10-06T10:02:39+02:00"
+    },
+    "images/junior-chef.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1800,
+        "alt": "Der Junior-Chef",
+        "size": 1064374,
+        "uploaded": "2026-10-06T10:03:04+02:00"
+    },
+    "images/kontakt-header.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Blick auf die Mühle Prautitz",
+        "size": 991136,
+        "uploaded": "2026-10-06T10:02:58+02:00"
+    },
+    "images/muehle-gebaeude-1.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Ansicht des Mühlengebäudes",
+        "size": 763716,
+        "uploaded": "2026-10-06T10:02:21+02:00"
+    },
+    "images/muehle-gebaeude-2.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Weitere Ansicht des Mühlengebäudes",
+        "size": 849056,
+        "uploaded": "2026-10-06T10:02:23+02:00"
+    },
+    "images/muehle-luftbild.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Luftbild der Mühle",
+        "size": 1134478,
+        "uploaded": "2026-10-06T10:02:19+02:00"
+    },
+    "images/muehle-walzenboden.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Walzenboden der Mühle",
+        "size": 607035,
+        "uploaded": "2026-10-06T10:02:25+02:00"
+    },
+    "images/muehle-walzenstuehle-1.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Historische Walzenstühle",
+        "size": 661711,
+        "uploaded": "2026-10-06T10:02:26+02:00"
+    },
+    "images/muehle-walzenstuehle-2.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Walzenstühle im Detail",
+        "size": 718287,
+        "uploaded": "2026-10-06T10:02:28+02:00"
+    },
+    "images/senior-chef.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1600,
+        "alt": "Der Senior-Chef",
+        "size": 568512,
+        "uploaded": "2026-10-06T10:03:00+02:00"
+    },
+    "images/start-luftbild.jpg": {
+        "type": "image",
+        "width": 2400,
+        "height": 1347,
+        "alt": "Luftbild der Mühle Prautitz mit Teichen",
+        "size": 922084,
+        "uploaded": "2026-10-06T10:02:17+02:00"
+    }
+}

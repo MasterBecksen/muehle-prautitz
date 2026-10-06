@@ -1,0 +1,63 @@
+# Baut die statische Vorschau und veröffentlicht sie auf GitHub Pages.
+# Einmalig aktivieren: Repository → Settings → Pages → Source: "GitHub Actions".
+name: Vorschau auf GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          extensions: gd, fileinfo, mbstring, curl, zip
+          coverage: none
+
+      - name: PHP-Syntax prüfen
+        run: find app public tools -name '*.php' -print0 | xargs -0 -n1 php -l > /dev/null
+
+      - name: Bilder-Cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            public/uploads
+            content/media.json
+          key: wix-media-${{ hashFiles('tools/wix-import.json') }}
+
+      - name: Bilder & PDFs der alten Seite übernehmen (falls noch nicht im Repository)
+        run: php tools/import-wix.php
+        continue-on-error: true
+
+      - name: Statische Seite erzeugen
+        env:
+          BASE: ${{ vars.BASE_PATH != '' && vars.BASE_PATH || format('/{0}', github.event.repository.name) }}
+        run: php tools/build.php --target=github --out=_site --base="$BASE"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
